@@ -1,4 +1,4 @@
-![图片](https://github.com/user-attachments/assets/7d83e2af-656e-4386-8fda-377d8d11a97f)## 基于Springboot时间管理系统(源代码+LW+PPT+数据库)
+## 基于Springboot时间管理系统(源代码+LW+PPT+数据库)
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
 **完整代码收费可以加微信FY-yuanma咨询接毕业设计论文**
